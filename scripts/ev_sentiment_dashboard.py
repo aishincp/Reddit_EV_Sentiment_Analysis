@@ -20,7 +20,7 @@ st.title("📊 Electric Vehicle Sentiment Analysis using Reddit Posts")
 st.markdown("Explore public sentiment and brand discussions in EV-focused Reddit communities.")
 
 # Load data
-df = pd.read_csv(r"data\reddit_ev_cleaned_sentiment_score_df.csv")
+df = pd.read_csv(r"data/reddit_ev_cleaned_sentiment_score_df.csv")
 
 # Filter by Date
 df['created_utc'] = pd.to_datetime(df['created_utc'])
