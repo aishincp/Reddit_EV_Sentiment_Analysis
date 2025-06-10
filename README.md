@@ -11,7 +11,7 @@ An interactive Streamlit web application that analyzes public sentiment around e
 
 #### Screenshot
 
-<img src="assets/screenshots/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
+[Dashboard Preview](https://github.com/aishincp/Reddit_EV_Sentiment_Analysis/blob/main/assets/dashboard/Dashboard_Preview.pdf)
 
 ---
 
