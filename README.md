@@ -1,5 +1,5 @@
 # Reddit_EV_Sentiment_Analysis
-Explore public sentiment and brand discussions in EV-focused Reddit communities using Reddit API, NLP, Streamlit, Azure Databricks, Spark 
+Explore public sentiment and brand discussions in EV-focused Reddit communities using Reddit API, NLP, Streamlit, Azure Databricks, and Spark 
 
 ## Reddit EV Sentiment Dashboard
 An interactive Streamlit web application that analyzes public sentiment around electric vehicles (EVs) using Reddit discussions. This project utilizes NLP and visualization techniques to compare brand perceptions across Tesla, Mercedes-Benz, BMW, Volkswagen, BYD, and other brands.
@@ -7,14 +7,17 @@ An interactive Streamlit web application that analyzes public sentiment around e
  
 *Explore how users feel about electric cars, how sentiment changes over time, and what topics generate the most discussion, all based on real Reddit data.*
 
-#### Screenshot
 ---
+
+#### Screenshot
+
 <img src="assets/screenshots/dashboard_preview.png" alt="Dashboard Preview" width="800"/>
-Feel free to replace with your own screenshot or add a GIF for better interactivity.
+
+---
 
 #### Live Demo
----
-Try the app here: (Link)[https://redditevsentimentanalysis-ufxsvdzuue39zhvw5vdgom.streamlit.app/]
+
+Try the app here: [Link](https://redditevsentimentanalysis-nc9xroxdw3ysnmpfxchmum.streamlit.app/)
 
 
 #### Tech Stack
@@ -45,3 +48,9 @@ Highlights:
 - Fully interactive and mobile-friendly dashboard
 - Ready for cloud deployment and enterprise use case simulation
 
+#### Optional Enhancements (Coming Soon)
+
+- GPT-powered summarization of top comments
+- Automated pipelines using Azure Data Factory
+- Power BI or Streamlit Cloud deployment options
+- Dockerized FastAPI version for serving the model as an API
